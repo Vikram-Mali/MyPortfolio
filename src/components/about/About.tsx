@@ -41,7 +41,9 @@ function About() {
 
                     </div>
                     <p>
-                        Lorem ipsum
+                        Motivated and enthusiastic Computer Science student seeking an opportunity to apply and enhance my skills, while making valuable contributions to a platform's growth.
+                        I possess a strong work ethic, excellent communication abilities, and effective leadership skills.
+                        I am eager to find a platform where I can channel my energy and passion, ultimately benefiting both the platform and my personal development.
                     </p>
 
                     <a href='#contact' className="btn btn-primary">Let's Talk</a>
