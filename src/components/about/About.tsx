@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./About.css"
 import Me from "../../assets/about_me.png"
 import {FaAward} from "react-icons/fa";

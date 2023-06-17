@@ -1,4 +1,4 @@
-import React from "react";
+
 import './Contact.css'
 import {MdOutlineEmail} from "react-icons/md";
 
@@ -14,8 +14,8 @@ const Contact = () => {
                     <article className="contact_option">
                         <MdOutlineEmail className="contact_icons"/>
                         <h4>Email</h4>
-                        <h5>vikram595959@gmail.com</h5>
-                        <a href="mailto:vikram595959@gmail.com">Send a Message</a>
+                        <h5>burpees-spinier00@icloud.com</h5>
+                        <a href="mailto:burpees-spinier00@icloud.com">Send a Message</a>
                     </article>
                 </div>
 
