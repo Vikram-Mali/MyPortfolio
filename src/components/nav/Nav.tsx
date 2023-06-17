@@ -1,4 +1,3 @@
-import React from "react";
 import './Nav.css'
 import {AiOutlineHome} from "react-icons/ai";
 import {BiUser} from "react-icons/bi";
